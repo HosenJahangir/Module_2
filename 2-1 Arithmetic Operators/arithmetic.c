@@ -1,10 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-int a=3,b=20;
-int mod=b%a;
-printf("%d",mod);
+    int a = 3, b = 20;
+    int mod = b % a;
+    printf("%d", mod);
+    printf("hello world");
 
-return 0;
-
+    return 0;
 }
